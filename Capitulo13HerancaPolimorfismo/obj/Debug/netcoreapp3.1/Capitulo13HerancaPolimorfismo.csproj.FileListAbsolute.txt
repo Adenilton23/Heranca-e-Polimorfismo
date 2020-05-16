@@ -1,0 +1,25 @@
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.exe
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.deps.json
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.runtimeconfig.json
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.dll
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.pdb
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.dll
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.pdb
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.genruntimeconfig.cache
+C:\Users\ElisNote\source\repos\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.csprojAssemblyReference.cache
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.exe
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.deps.json
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.runtimeconfig.json
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.runtimeconfig.dev.json
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.dll
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\bin\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.pdb
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.AssemblyInfo.cs
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.dll
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.pdb
+C:\Users\ElisNote\Desktop\Curso C# Udemy\Capitulo13HerancaPolimorfismo\Capitulo13HerancaPolimorfismo\obj\Debug\netcoreapp3.1\Capitulo13HerancaPolimorfismo.genruntimeconfig.cache
